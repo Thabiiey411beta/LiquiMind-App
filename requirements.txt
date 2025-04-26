@@ -1,0 +1,5 @@
+cat <<EOF > requirements.txt
+requests==2.31.0
+python-dotenv==1.0.1
+EOF
+pip3 install -r requirements.txt

@@ -1,0 +1,21 @@
+cat <<EOF > /workspaces/supra-l1-sdk/liqui-mind/metadata/nft1.json
+{
+  "name": "LiquiMind Trading Strategy #1",
+  "description": "An AI-driven trading strategy optimized for ETH/USD pairs using Supra's sub-second oracles.",
+  "image": "ipfs://QmYx6f5x5p1v5q4j3k2m7n8p9r0t1u2v3w4y5z6a7b8c9d0/strategy.png",
+  "attributes": [
+    {
+      "trait_type": "Strategy Type",
+      "value": "Momentum"
+    },
+    {
+      "trait_type": "Pair",
+      "value": "ETH/USD"
+    },
+    {
+      "trait_type": "Performance",
+      "value": "85% APR"
+    }
+  ]
+}
+EOF
