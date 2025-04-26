@@ -1,0 +1,10 @@
+node_modules/
+dist/
+build/
+.env
+*.zip
+*.tar.gz
+__pycache__/
+.vercel/
+artifacts/
+cache/
